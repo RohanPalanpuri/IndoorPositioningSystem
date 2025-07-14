@@ -1,0 +1,31 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore data files (optional — uncomment if needed)
+# *.csv
+# *.h5
+# *.zip
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and output
+*.log
+*.out
+
+# Ignore Colab mount points
+/content/drive/
